@@ -1,5 +1,5 @@
-.container {
-}
+/* .container {
+} */
 
 .items {
   display: flex;
@@ -31,11 +31,11 @@
   justify-content: space-evenly;
 }
 
-.title {
+/* .title {
 }
 
 .desc {
-}
+} */
 
 .user {
   font-size: 14px;
